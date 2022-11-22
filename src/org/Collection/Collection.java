@@ -11,6 +11,7 @@ public class Collection {
 		l.add("Mathi");
 		l.add("Selva");
 		l.add("Venki");
+		l.add("amirthaIyer");
 		System.out.println(l);
 		for (Object x : l) {
 			System.out.println(x);
